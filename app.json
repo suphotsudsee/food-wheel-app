@@ -24,6 +24,12 @@
         "backgroundColor": "#f97316"
       },
       "package": "com.yourname.foodwheel"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "61299fcc-ba98-4e19-a3e9-3cc2f870d73c"
+      }
+    },
+    "owner": "suphotsudsee"
   }
 }
