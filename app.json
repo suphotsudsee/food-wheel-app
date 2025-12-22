@@ -19,7 +19,6 @@
       "bundleIdentifier": "com.yourname.foodwheel"
     },
     "android": {
-      "targetSdkVersion": 35,
       "adaptiveIcon": {
         "foregroundImage": "./assets/icon.png",
         "backgroundColor": "#f97316"
