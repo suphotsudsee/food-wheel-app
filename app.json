@@ -3,6 +3,9 @@
     "name": "Food Wheel",
     "slug": "food-wheel-app",
     "version": "1.0.0",
+    "android": {
+      "targetSdkVersion": 35
+    },
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
@@ -30,6 +33,9 @@
         "projectId": "61299fcc-ba98-4e19-a3e9-3cc2f870d73c"
       }
     },
-    "owner": "suphotsudsee"
+    "owner": "suphotsudsee",
+    "plugins": [
+      "expo-asset"
+    ]
   }
 }
